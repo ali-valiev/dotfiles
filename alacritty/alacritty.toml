@@ -6,7 +6,9 @@
 size = 14.0
 
 [font.normal]
-family = "FiraCode Nerd Font"
+# family = "FiraMono Nerd Font"
+# family = "0xProto Nerd Font"
+family = "MartianMono Nerd Font"
 
 [window]
 padding = {x = 6, y = 6}
