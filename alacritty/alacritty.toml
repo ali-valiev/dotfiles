@@ -7,7 +7,6 @@ size = 14.0
 
 [font.normal]
 # family = "FiraMono Nerd Font"
-# family = "0xProto Nerd Font"
 family = "MartianMono Nerd Font"
 
 [window]

@@ -15,7 +15,7 @@ alias la="exa -la"
 alias v="nvim"
 
 alias inst="sudo pacman -S"
-alias rem="sudo pacman -R"
+alias rem="sudo pacman -Rns"
 alias update="sudo pacman -Syu"
 alias clean="pacman -Qtdq | sudo pacman -Rns -"
 
